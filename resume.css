@@ -1,0 +1,139 @@
+.resume {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+	color: #575757;
+	font-size:12pt
+}
+.resume h1{
+	font-size: 16pt;
+	color: #999999;
+	font-weight: normal;
+}
+.resume h2{
+	font-size: 13pt;
+	color: #004900;
+	font-weight: bold;
+	margin-bottom:2px;
+}
+.resume h2 .title{
+	font-size: 13pt;
+	color: #004900;
+	float: right;
+	margin-bottom: 2px;
+}
+.resume h3 {
+	font-size: 12pt;
+	color: #A4A7A6;
+	font-weight: normal;
+	margin-top: 0px;
+	margin-bottom: 3px;
+	padding: 0px auto;
+	border: 0px auto;
+	text-align: right;
+}
+.resume a{
+	text-decoration: none;
+	color: inherit;
+}
+.resume a:hover{
+	text-decoration: underline;
+	color: #A4A7A6;
+}
+.resume p {
+	margin-top: 0px;
+	margin-bottom: 7px;
+}
+.name {
+	float: left;
+	width: 200px;
+	padding: 1px 20px 0px 0px;
+	font-size: 26pt;
+}
+.cv {
+	float: left;
+	width:700px;
+	padding: 8px 0px 0px 0px;
+	font-size: 34pt;
+	color: #000000;
+	font-weight: normal;
+}
+#main {
+	width:950px;
+	margin: 0px auto;
+}
+.header {
+	width: 100%;
+	margin: 0px auto;
+	padding: 0px 20px 20px 20px;
+	height: 40px;
+}
+#skillsleft {
+	float: left;
+	width: 190px;
+	padding-right: 1px;
+}
+#skillsleft p {
+	color: #004900;
+	font-weight: bold;
+}
+#skillsright {
+	float: left;
+	width: 490px;
+	padding-left: 15px;
+}
+#skillsright p {
+	color: #000000;
+	padding: 1px 0px 0.7px 0px;
+}
+#leftcol{
+	float: left;
+	width:200px;
+	padding:0px 20px 0px 20px;
+}
+#leftcol p {
+	margin-top: 0px;
+	margin-bottom: 7px;
+	color: #575757;
+}
+#rightcol{
+	float: left;
+	width:700px;
+	padding:0px 0px 0px 0px;
+}
+#rightcol ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #000000;
+}
+#rightcol li {
+	margin-bottom: 1px;
+	text-align: justify;
+}
+#footer{
+	width:100%;
+	margin-top:10px;
+	border-top: solid 1px #868686;
+}
+#footer h3 {
+	font-size: 12pt;
+	color: #A4A7A6;
+	font-weight: normal;
+}
+#coverLetter{
+	width:950px;
+	margin:0px auto;
+	page-break-after:always;
+	text-align:justify;
+}
+.coverTitle {
+	float: left;
+	width:670px;
+	padding: 70px 0px 0px 0px;
+	font-size: 26pt;
+}
+.cover {
+	font-family: Tahoma;
+}
+.cover p {
+	font-size: 16px;
+}
